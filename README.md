@@ -21,6 +21,7 @@ A simple web-application that supports authentication, registration and other CR
 * Java Web
 * HTML
 * CSS
+* SQL
 ## Instructions for successful project start
 1. You should run SQL-script from resources/init_db.sql in your SQL Server.
 2. Set your own properties in ConnectionUtil: 
