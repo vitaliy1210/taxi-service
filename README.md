@@ -2,6 +2,8 @@
 ___
 ## Project description
 A simple web-application that supports authentication, registration and other CRUD operations.
+This project is a simulation of taxi service, where users are drivers. 
+A car can have multiple drivers and a driver can drive multiple cars.
 ## Features
 * registration like a driver
 * authentication like a driver
@@ -33,3 +35,4 @@ private static final String JDBC_DRIVER = "YOUR DRIVER";
 3. Edit debug configurations and add Local Tomcat Server(recommended 9.0.50 version). 
 4. Add artifact (war exploded) to deploy project in Tomcat settings.
 5. Now you can run this project. In order to use all features you should register as driver and authorize with your login and password;
+6. In order to create a car, you should indicate an existent manufacturer ID.
